@@ -3,7 +3,7 @@ categories = ["Development", "golang"]
 date = "2014-04-02"
 description = ""
 tags = ["go", "golang", "templates", "themes", "development"]
-title = "(Hu)go Template Primer"
+title = "HUGO TEMPLATE"
 
 +++
 Hugo uses the excellent [go](http://golang.org/) [html/template](http://golang.org/pkg/html/template/) library for
