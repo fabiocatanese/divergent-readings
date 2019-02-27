@@ -6,15 +6,9 @@ tags = ["go", "golang", "templates", "themes", "development"]
 title = "HUGO TEMPLATE"
 
 +++
-Hugo uses the excellent [go](http://golang.org/) [html/template](http://golang.org/pkg/html/template/) library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in go templates.
+Hugo uses the excellent [go](http://golang.org/) [html/template](http://golang.org/pkg/html/template/) library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates. 
 
-This document is a brief primer on using go templates. The [go docs](http://golang.org/pkg/html/template/)
-provide more details.
+This document is a brief primer on using go templates. The [go docs](http://golang.org/pkg/html/template/) provide more details. HELLO WORLD
 
 ## Introduction to Go Templates
 
