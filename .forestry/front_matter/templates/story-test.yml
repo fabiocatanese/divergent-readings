@@ -14,3 +14,5 @@ fields:
   label: text
   config:
     required: true
+pages:
+- content/post/test-test.md
