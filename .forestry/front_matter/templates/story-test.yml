@@ -1,0 +1,16 @@
+---
+label: Story test
+hide_body: false
+is_partial: false
+fields:
+- type: datetime
+  name: date
+  label: date
+  config:
+    date_format: DD/MM/YYYY
+    required: true
+- type: text
+  name: text
+  label: text
+  config:
+    required: true
