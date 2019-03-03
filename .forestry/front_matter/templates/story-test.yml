@@ -25,3 +25,5 @@ fields:
   label: Title
   config:
     required: true
+pages:
+- content/post/ahah.md
