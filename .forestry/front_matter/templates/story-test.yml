@@ -1,0 +1,27 @@
+---
+label: story test
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: author
+  label: Author
+  config:
+    required: true
+  default: Fabio Catanese
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: YYYY-MM-DD
+    required: true
+- type: text
+  name: linktitle
+  label: LinkTitle
+  config:
+    required: true
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
