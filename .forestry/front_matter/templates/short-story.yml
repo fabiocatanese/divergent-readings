@@ -3,3 +3,5 @@ label: Short story
 hide_body: false
 is_partial: false
 fields: []
+pages:
+- content/post/test.md
