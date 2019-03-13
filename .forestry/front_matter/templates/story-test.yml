@@ -25,6 +25,7 @@ fields:
   config:
     required: true
 pages:
+- content/post/ggggi.md
 - content/post/ffff.md
 - content/post/ghgh.md
 - content/post/ciao-1.md
