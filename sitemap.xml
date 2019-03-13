@@ -59,13 +59,13 @@
   </url>
   
   <url>
-    <loc>http://divergent-readings.com/tags/development/</loc>
+    <loc>http://divergent-readings.com/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://divergent-readings.com/categories/development/</loc>
+    <loc>http://divergent-readings.com/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -77,13 +77,13 @@
   </url>
   
   <url>
-    <loc>http://divergent-readings.com/tags/golang/</loc>
+    <loc>http://divergent-readings.com/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://divergent-readings.com/categories/golang/</loc>
+    <loc>http://divergent-readings.com/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
