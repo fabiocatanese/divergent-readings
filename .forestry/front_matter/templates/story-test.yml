@@ -26,7 +26,4 @@ fields:
     required: true
 pages:
 - content/post/testpost.md
-- content/post/ffff.md
-- content/post/ciao-1.md
-- content/post/ciao.md
 - content/post/ahah.md
