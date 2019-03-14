@@ -6,10 +6,19 @@
     <description>Recent content on Black &amp; Light</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://divergent-readings.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ciao</title>
+      <link>http://divergent-readings.com/post/ciao/</link>
+      <pubDate>Wed, 13 Mar 2019 23:00:00 +0000</pubDate>
+      
+      <guid>http://divergent-readings.com/post/ciao/</guid>
+      <description>Ciao</description>
+    </item>
     
     <item>
       <title>Ciao</title>
@@ -18,6 +27,17 @@
       
       <guid>http://divergent-readings.com/post/ciao-1/</guid>
       <description>Ciao</description>
+    </item>
+    
+    <item>
+      <title>TestPost</title>
+      <link>http://divergent-readings.com/post/testpost/</link>
+      <pubDate>Mon, 11 Mar 2019 23:00:00 +0000</pubDate>
+      
+      <guid>http://divergent-readings.com/post/testpost/</guid>
+      <description>Black and Light is a high contrast, performant and Javascript-free theme.
+Features  Loads in a single request (with web-fonts disabled) 100 / 100 on Google Page Speed test (100 / 100 on mobile with web-fonts disabled) Scriptless (unless you enable Google Analyitcs) Styles inlined in head High Contrast  Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading This is bold text
+This is bold text</description>
     </item>
     
     <item>
