@@ -23,16 +23,6 @@
   </url>
   
   <url>
-    <loc>http://divergent-readings.com/post/ggggi/</loc>
-    <lastmod>2019-03-09T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://divergent-readings.com/post/hello/</loc>
-    <lastmod>2019-03-08T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://divergent-readings.com/post/ahah/</loc>
     <lastmod>2019-03-02T00:00:00+00:00</lastmod>
   </url>
@@ -53,11 +43,6 @@
   </url>
   
   <url>
-    <loc>http://divergent-readings.com/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://divergent-readings.com/</loc>
     <lastmod>2019-03-13T23:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -69,42 +54,6 @@
   </url>
   
   <url>
-    <loc>http://divergent-readings.com/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://divergent-readings.com/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://divergent-readings.com/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://divergent-readings.com/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://divergent-readings.com/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://divergent-readings.com/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://divergent-readings.com/post/</loc>
     <lastmod>2019-03-13T23:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -112,12 +61,7 @@
   
   <url>
     <loc>http://divergent-readings.com/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://divergent-readings.com/post/ghgh/</loc>
   </url>
   
 </urlset>
