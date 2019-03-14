@@ -3,23 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://divergent-readings.com/post/ciao/</loc>
-    <lastmod>2019-03-13T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://divergent-readings.com/post/ciao-1/</loc>
-    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://divergent-readings.com/post/testpost/</loc>
     <lastmod>2019-03-11T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://divergent-readings.com/post/ffff/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -44,7 +29,7 @@
   
   <url>
     <loc>http://divergent-readings.com/</loc>
-    <lastmod>2019-03-13T23:00:00+00:00</lastmod>
+    <lastmod>2019-03-11T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,7 +40,7 @@
   
   <url>
     <loc>http://divergent-readings.com/post/</loc>
-    <lastmod>2019-03-13T23:00:00+00:00</lastmod>
+    <lastmod>2019-03-11T23:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
