@@ -1,5 +1,5 @@
 baseurl = "http://divergent-readings.com/"
-title = "Black & Light"
+title = "Divergent Readings"
 author = "David Hamp-Gonsalves"
 canonifyurls = true
 languagecode = "en"
@@ -9,7 +9,7 @@ pygmentsstyle       = "bw"
 pygmentscodefences  = true
 
 [params]
-  sitename = "Black & Light"
+  sitename = "Divergent Readings"
   disableWebFonts = false
 
 [[menu.main]]
